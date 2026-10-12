@@ -1,4 +1,4 @@
-# AgriCare AI
+# AgriCare AI edited
 
 AI-powered plant disease detection with biological and non-chemical treatment recommendations.
 
