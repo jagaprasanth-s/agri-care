@@ -1,0 +1,10 @@
+flask>=3.0
+opencv-python-headless>=4.9
+numpy>=1.26
+# Needed to train the model and to run real predictions (the app runs in demo mode without it):
+tensorflow>=2.16
+# Needed only by train_model.py for the evaluation report:
+scikit-learn>=1.4
+matplotlib>=3.8
+# Needed only for tests:
+pytest>=8.0

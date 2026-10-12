@@ -1,0 +1,155 @@
+{
+  "_note": "Starter entries. Verify each against a trusted source before real use. Add biological options only when a source supports that crop-disease pair. Never add pesticide doses.",
+  "entries": [
+    {
+      "crop": "Tomato",
+      "disease": "Early blight",
+      "description": "Fungal disease with ring-patterned dark spots on older leaves",
+      "symptoms": "dark spots with ring patterns on older leaves",
+      "why": "dark brown spots with ring-like patterns on older, lower leaves.",
+      "risk": "Medium",
+      "prevention": [
+        "Use healthy seedlings",
+        "Rotate crops; avoid replanting tomato family in the same spot",
+        "Space plants for airflow",
+        "Mulch to reduce soil splash"
+      ],
+      "non_chemical": [
+        "Remove heavily affected lower leaves where guidance supports it",
+        "Water at the base in the morning; keep leaves dry",
+        "Clean tools between plants",
+        "Scout regularly and re-photograph new spots",
+        "Choose less susceptible varieties if available"
+      ],
+      "biological": [],
+      "source": "[Insert university or extension source]"
+    },
+    {
+      "crop": "Tomato",
+      "disease": "Late blight",
+      "description": "Fast-spreading disease in cool, wet weather",
+      "symptoms": "water-soaked patches that turn brown and spread quickly",
+      "why": "large, irregular water-soaked patches that spread across the leaf.",
+      "risk": "High",
+      "prevention": [
+        "Use healthy seedlings",
+        "Avoid dense planting; keep airflow",
+        "Remove volunteer plants nearby"
+      ],
+      "non_chemical": [
+        "Remove and bag severely infected plants promptly; do not compost them",
+        "Water at the base in the morning; keep leaves dry",
+        "Clean tools between plants",
+        "Scout regularly and re-photograph new spots",
+        "Check local alerts for blight outbreaks"
+      ],
+      "biological": [],
+      "source": "[Insert university or extension source]"
+    },
+    {
+      "crop": "Potato",
+      "disease": "Early blight",
+      "description": "Dark spots with concentric rings on older leaves",
+      "symptoms": "dark spots with concentric rings on older leaves",
+      "why": "dark spots with concentric rings on older leaves.",
+      "risk": "Medium",
+      "prevention": [
+        "Use healthy seed tubers",
+        "Rotate crops",
+        "Hill soil and mulch to limit splash"
+      ],
+      "non_chemical": [
+        "Remove heavily affected leaves where guidance supports it",
+        "Water at the base in the morning; keep leaves dry",
+        "Clean tools between plants",
+        "Scout regularly and re-photograph new spots"
+      ],
+      "biological": [],
+      "source": "[Insert university or extension source]"
+    },
+    {
+      "crop": "Pepper",
+      "disease": "Bacterial spot",
+      "description": "Small dark, water-soaked spots turning brown",
+      "symptoms": "small, dark, water-soaked spots that turn brown",
+      "why": "small, dark, water-soaked spots on the leaf.",
+      "risk": "Medium",
+      "prevention": [
+        "Use disease-free seed or transplants",
+        "Rotate crops",
+        "Avoid working among wet plants"
+      ],
+      "non_chemical": [
+        "Remove badly affected leaves where guidance supports it",
+        "Water at the base in the morning; keep leaves dry",
+        "Clean tools between plants",
+        "Scout regularly and re-photograph new spots"
+      ],
+      "biological": [],
+      "source": "[Insert university or extension source]"
+    },
+    {
+      "crop": "Apple",
+      "disease": "Apple scab",
+      "description": "Olive-brown scabby spots on leaves and fruit",
+      "symptoms": "olive-brown scabby spots on leaves",
+      "why": "olive-brown, scabby spots on the leaf.",
+      "risk": "Medium",
+      "prevention": [
+        "Rake and remove fallen leaves in autumn",
+        "Prune to open the canopy",
+        "Plant resistant varieties where possible"
+      ],
+      "non_chemical": [
+        "Remove badly affected leaves and fruit where guidance supports it",
+        "Water at the base in the morning; keep leaves dry",
+        "Clean tools between plants",
+        "Scout regularly and re-photograph new spots"
+      ],
+      "biological": [],
+      "source": "[Insert university or extension source]"
+    },
+    {
+      "crop": "Maize",
+      "disease": "Common rust",
+      "description": "Small reddish-brown pustules on both leaf surfaces",
+      "symptoms": "small reddish-brown pustules on both leaf surfaces",
+      "why": "small reddish-brown pustules on both sides of the leaf.",
+      "risk": "Medium",
+      "prevention": [
+        "Plant resistant hybrids where available",
+        "Rotate crops",
+        "Avoid very dense planting"
+      ],
+      "non_chemical": [
+        "Scout early, especially in cool, humid weather",
+        "Water at the base in the morning; keep leaves dry",
+        "Clean tools between plants",
+        "Scout regularly and re-photograph new spots"
+      ],
+      "biological": [],
+      "source": "[Insert university or extension source]"
+    },
+    {
+      "crop": "Grape",
+      "disease": "Black rot",
+      "description": "Brown leaf spots with dark edges; shriveled berries",
+      "symptoms": "brown leaf spots with dark edges",
+      "why": "brown spots with dark edges on the leaf.",
+      "risk": "Medium",
+      "prevention": [
+        "Prune to open the canopy",
+        "Remove mummified berries and infected canes",
+        "Control weeds for airflow"
+      ],
+      "non_chemical": [
+        "Remove infected plant parts where guidance supports it",
+        "Water at the base in the morning; keep leaves dry",
+        "Clean tools between plants",
+        "Scout regularly and re-photograph new spots"
+      ],
+      "biological": [],
+      "source": "[Insert university or extension source]"
+    }
+  ]
+}
